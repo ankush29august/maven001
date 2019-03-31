@@ -1,0 +1,111 @@
+2019-02-08 22:00:55,561 [main] INFO eBanking - Url is Open
+2019-02-08 22:00:56,038 [main] INFO eBanking - entered username
+2019-02-08 22:00:56,145 [main] INFO eBanking - entered password
+2019-02-08 22:00:56,189 [main] INFO eBanking - clicked login
+2019-02-08 22:00:56,200 [main] INFO eBanking - Testcase passed
+2019-02-09 08:20:21,802 [main] INFO eBanking - Url is Open
+2019-02-09 08:20:23,504 [main] INFO eBanking - entered username
+2019-02-09 08:20:23,625 [main] INFO eBanking - entered password
+2019-02-09 08:20:23,708 [main] INFO eBanking - clicked login
+2019-02-09 08:20:23,720 [main] INFO eBanking - Testcase passed
+2019-02-09 08:21:25,297 [main] INFO eBanking - Url is Open
+2019-02-09 08:21:25,789 [main] INFO eBanking - entered username
+2019-02-09 08:21:25,948 [main] INFO eBanking - entered password
+2019-02-09 08:21:26,046 [main] INFO eBanking - clicked login
+2019-02-09 08:21:26,064 [main] INFO eBanking - Testcase passed
+2019-02-09 08:24:53,779 [main] INFO eBanking - Url is Open
+2019-02-09 08:24:54,040 [main] INFO eBanking - entered username
+2019-02-09 08:24:54,090 [main] INFO eBanking - entered password
+2019-02-09 08:24:54,152 [main] INFO eBanking - clicked login
+2019-02-09 08:24:54,165 [main] INFO eBanking - Testcase passed
+2019-02-09 08:31:06,336 [main] INFO eBanking - Url is Open
+2019-02-09 08:33:58,248 [main] INFO eBanking - Url is Open
+2019-02-09 08:33:58,513 [main] INFO eBanking - entered username
+2019-02-09 08:33:58,570 [main] INFO eBanking - entered password
+2019-02-09 08:33:58,641 [main] INFO eBanking - clicked login
+2019-02-09 08:44:53,195 [main] INFO eBanking - Url is Open
+2019-02-09 08:44:53,425 [main] INFO eBanking - entered username
+2019-02-09 08:44:53,527 [main] INFO eBanking - entered password
+2019-02-09 08:44:53,600 [main] INFO eBanking - clicked login
+2019-02-09 08:45:42,551 [main] INFO eBanking - Url is Open
+2019-02-09 08:45:42,835 [main] INFO eBanking - entered username
+2019-02-09 08:45:42,923 [main] INFO eBanking - entered password
+2019-02-09 08:45:42,991 [main] INFO eBanking - clicked login
+2019-02-09 08:50:13,910 [main] INFO eBanking - Url is Open
+2019-02-09 08:50:14,174 [main] INFO eBanking - entered username
+2019-02-09 08:50:14,234 [main] INFO eBanking - entered password
+2019-02-09 08:50:14,380 [main] INFO eBanking - clicked login
+2019-02-09 08:56:26,019 [main] INFO eBanking - Url is Open
+2019-02-09 08:56:26,186 [main] INFO eBanking - entered username
+2019-02-09 08:56:26,255 [main] INFO eBanking - entered password
+2019-02-09 08:56:26,311 [main] INFO eBanking - clicked login
+2019-02-09 08:57:50,612 [main] INFO eBanking - Url is Open
+2019-02-09 08:57:50,842 [main] INFO eBanking - entered username
+2019-02-09 08:57:50,932 [main] INFO eBanking - entered password
+2019-02-09 08:57:51,018 [main] INFO eBanking - clicked login
+2019-02-09 09:02:22,165 [main] INFO eBanking - Url is Open
+2019-02-09 09:02:22,333 [main] INFO eBanking - entered username
+2019-02-09 09:02:22,429 [main] INFO eBanking - entered password
+2019-02-09 09:02:25,663 [main] INFO eBanking - clicked login
+2019-02-09 09:02:25,698 [main] INFO eBanking - Testcase passed
+2019-02-09 09:04:26,191 [main] INFO eBanking - Url is Open
+2019-02-09 09:04:26,357 [main] INFO eBanking - entered username
+2019-02-09 09:04:26,456 [main] INFO eBanking - entered password
+2019-02-09 09:04:29,572 [main] INFO eBanking - clicked login
+2019-02-09 09:04:29,600 [main] INFO eBanking - Testcase passed
+2019-02-09 09:38:49,242 [main] INFO eBanking - Url is Open
+2019-02-09 09:38:49,466 [main] INFO eBanking - entered username
+2019-02-09 09:38:49,607 [main] INFO eBanking - entered password
+2019-02-09 09:38:57,331 [main] INFO eBanking - clicked login
+2019-02-09 09:38:57,355 [main] INFO eBanking - Testcase passed
+2019-02-09 09:42:02,988 [main] INFO eBanking - Url is Open
+2019-02-09 09:42:03,184 [main] INFO eBanking - entered username
+2019-02-09 09:42:03,288 [main] INFO eBanking - entered password
+2019-02-09 09:42:06,460 [main] INFO eBanking - clicked login
+2019-02-09 09:42:06,496 [main] INFO eBanking - Testcase passed
+2019-02-09 09:44:10,049 [main] INFO eBanking - Url is Open
+2019-02-09 09:44:10,196 [main] INFO eBanking - entered username
+2019-02-09 09:44:10,342 [main] INFO eBanking - entered password
+2019-02-09 09:44:18,253 [main] INFO eBanking - clicked login
+2019-02-09 09:44:18,278 [main] INFO eBanking - Testcase passed
+2019-02-09 09:48:10,998 [main] INFO eBanking - Url is Open
+2019-02-09 09:48:11,368 [main] INFO eBanking - entered username
+2019-02-09 09:48:11,559 [main] INFO eBanking - entered password
+2019-02-09 09:48:12,052 [main] INFO eBanking - clicked login
+2019-02-09 10:10:48,711 [main] INFO eBanking - Url is Open
+2019-02-09 10:10:48,894 [main] INFO eBanking - entered username
+2019-02-09 10:10:48,993 [main] INFO eBanking - entered password
+2019-02-09 10:10:56,226 [main] INFO eBanking - clicked login
+2019-02-09 10:10:56,236 [main] INFO eBanking - Testcase passed
+2019-02-15 12:05:23,281 [main] INFO eBanking - Url is Open
+2019-02-15 12:05:28,045 [main] INFO eBanking - entered username
+2019-02-15 12:05:28,358 [main] INFO eBanking - entered password
+2019-02-15 12:05:35,752 [main] INFO eBanking - clicked login
+2019-02-15 12:05:35,768 [main] INFO eBanking - Testcase passed
+2019-02-22 10:05:34,344 [main] INFO eBanking - Url is Open
+2019-02-22 10:06:21,759 [main] INFO eBanking - Url is Open
+2019-02-22 10:06:23,729 [main] INFO eBanking - entered username
+2019-02-22 10:06:24,064 [main] INFO eBanking - entered password
+2019-02-22 10:06:31,568 [main] INFO eBanking - clicked login
+2019-02-22 10:06:31,761 [main] INFO eBanking - Testcase passed
+2019-02-22 10:44:03,116 [main] INFO eBanking - Url is Open
+2019-02-22 10:44:03,533 [main] INFO eBanking - entered username
+2019-02-22 10:44:03,644 [main] INFO eBanking - entered password
+2019-02-22 10:44:16,109 [main] INFO eBanking - clicked login
+2019-02-22 10:44:16,137 [main] INFO eBanking - Testcase passed
+2019-02-22 11:07:43,313 [main] INFO eBanking - Url is Open
+2019-02-22 11:07:43,472 [main] INFO eBanking - entered username
+2019-02-22 11:07:43,570 [main] INFO eBanking - entered password
+2019-02-22 11:07:45,890 [main] INFO eBanking - clicked login
+2019-02-22 11:09:30,810 [main] INFO eBanking - Url is Open
+2019-02-22 11:09:30,987 [main] INFO eBanking - entered username
+2019-02-22 11:09:31,071 [main] INFO eBanking - entered password
+2019-02-22 11:09:33,993 [main] INFO eBanking - clicked login
+2019-02-22 11:46:26,182 [main] INFO eBanking - Url is Open
+2019-02-22 11:46:26,361 [main] INFO eBanking - entered username
+2019-02-22 11:46:26,454 [main] INFO eBanking - entered password
+2019-02-22 11:46:32,814 [main] INFO eBanking - clicked login
+2019-02-22 14:43:01,635 [main] INFO eBanking - Url is Open
+2019-02-22 14:43:02,162 [main] INFO eBanking - entered username
+2019-02-22 14:43:02,329 [main] INFO eBanking - entered password
+2019-02-22 14:43:03,637 [main] INFO eBanking - clicked login
